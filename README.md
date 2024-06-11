@@ -35,7 +35,7 @@ $ git init
 $ git add README.md
 $ git commit -m "first commit"
 $ git branch -M main
-$ git remote add origin git@github.com:ElCalvo9191/COL-GRADUATION.git
+$ git remote add origin "Your SSH link"
 $ git push -u origin main
 ```
 # Game Project
