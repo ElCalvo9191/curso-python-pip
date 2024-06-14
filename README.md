@@ -60,7 +60,7 @@ $ sudo apt install -y python3-venv
 # App Project
 
 ```sh
-$ git clone 
+$ git clone "Fork SSH link"
 $ cd app 
 $ python3 -m venv env 
 $ source env/bin/activate
