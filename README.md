@@ -68,6 +68,12 @@ $ pip3 install -r requirements.txt
 $ python3 main.py
 ```
 To get out from env enveironment use.
+
 ```sh
 $ deactivate
+```
+How turn on the FastAPI server
+
+```sh
+$ uvicorn main:app --reload
 ```
